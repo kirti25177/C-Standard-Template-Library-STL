@@ -1,29 +1,49 @@
 # C-Standard-Template-Library-STL
 A complete beginner-to-advanced guide to the C++ Standard Template Library (STL) with explanations, syntax, examples, time complexities, interview tips, and practice problems.
 # About
-This repository is a structured collection of notes and code examples covering the C++ Standard Template Library (STL).
+This repository is a structured collection of notes and code examples covering the C++ Standard Template Library (STL).  
 
-It is designed for:
 
-🎓 Students learning C++
-💻 Competitive Programmers
-🧠 DSA & Interview Preparation
-👨‍💻 Software Engineering Interviews
-📚 Quick STL Revision
+It is designed for:  
 
-Every topic includes:
+🎓 Students learning C++  
 
-✅ Explanation
-✅ Syntax
-✅ Time & Space Complexity
-✅ Code Examples
-✅ Outputs
-✅ Common Mistakes
-✅ Interview Questions
-✅ Practice Problems
+💻 Competitive Programmers  
+
+🧠 DSA & Interview Preparation  
+
+👨‍💻 Software Engineering Interviews  
+
+📚 Quick STL Revision  
+
+
+Every topic includes:  
+
+
+✅ Explanation  
+
+✅ Syntax  
+
+✅ Time & Space Complexity  
+
+✅ Code Examples  
+
+✅ Outputs  
+
+✅ Common Mistakes  
+
+✅ Interview Questions  
+
+✅ Practice Problems  
+
 
 # Author
-**Kirti**
-BTech Student | DSA Learner | Aspiring Software Engineer
-*Small steps every day lead to big achievements.*
-**If this repository helps you, don't forget to give it a star!**
+
+**Kirti**  
+
+BTech Student | DSA Learner | Aspiring Software Engineer    
+
+*Small steps every day lead to big achievements.*  
+
+**If this repository helps you, don't forget to give it a star!**  
+
